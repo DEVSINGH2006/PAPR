@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main() {
+printf("Doing Practice");
+
+return 0;
+}
